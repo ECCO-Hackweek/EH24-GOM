@@ -1,9 +1,6 @@
-# Sample Project
+# Closing the Volume Budget for the Gulf of Mexico
 
-This is an example of how teams can structure their project repositories and format their project README.md file.
-
-When creating a project repository from this template choose "Public" so other participants can follow progress. Add a "topic" to your repository details (click on the gear icon next to the "About" section on the repository page) to help others find your work (e.g. `ecco-hackweek-2024`).
-
+Each summer in the Gulf of Mexico, a hypoxic zone develops with economical and ecological impacts. Since 2001, government agencies have been tasked with decreasing the total area of the deadzone by 60% with little to no progress. The biogeochemical dynamics of the Gulf of Mexico result from complex, non-linear interactions between changes in land use, specifically nitrogen, Mississippi River runoff, and ocean temperature and density gradients. To mitigate the size of the dead zone, it is imperative to gain a mechanistic understanding of the drivers of interannual variability. ECCO, specifically ECCO-Darwin, provides a wonderful opportunity to study these mechanisms. 
 
 ## Files and folders in your project repository
 
