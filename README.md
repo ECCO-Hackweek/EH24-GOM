@@ -21,32 +21,13 @@ This template provides the following suggested organizaiton structure for the pr
 * `model-card.md`
 <br> Description (following a metadata standard) of any machine learning models used in the project
 
-# Recommended content for your README.md file:
-
-(you can remove the content here and above from your final project README.md file so that it begins with the Project or Team Name title below)
-
-# Project or Team Name
-
-## Project Title and Introduction
-
-Provide a brief introduction describing the proposed work. Be sure to also decribe what skills team members will get to learn and practice as part of this project.
-
 ### Collaborators
 
-List all participants on the project. Here is a good space to share your personal goals for the hackweek and things you can help with.
 
 | Name | Personal goals | Can help with | Role |
 | ------------- | ------------- | ------------- | ------------- |
-| Katherine J. | I want to learn specific python libraries for working with these data  | I can help with understanding our dataset, programming in R  | Project Lead |
-| Rosalind F. | Practice leading a software project | machine learning and python (scipy, scikit-learn) | Project Lead |
-| Alan T. | learning about your dataset | GitHub, Jupyter, cloud computing | Project Helper |
-| Rachel C. | learn to use github, resolve merge conflicts | I am familiar with our dataset | Team Member  |
-| ... | ... | ... | ... |
-| ... | ... | ... | ... |
+| J. Zaiss | I want to learn how to access ECCO data and perform analyses | ??? | Project Lead
 
-### The problem
-
-Provide a few sentences describing the problem are you going to explore. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context and specific applications of this work.
 
 ## Data and Methods
 
@@ -92,5 +73,7 @@ What are the individual tasks or steps that need to be taken to achieve each of 
 ## Project Results
 
 Use this section to briefly summarize your project results. This could take the form of describing the progress your team made to answering a research question, developing a tool or tutorial, interesting things found in exploring a new dataset, lessons learned for applying a new method, personal accomplishments of each team member, or anything else the team wants to share.
+
+Final Poster: https://docs.google.com/presentation/d/1JlS2XUhSA8QBUzPQLVESupjZ94fFt3SyZiuQD1I2psw/edit?usp=sharing
 
 You could include figures or images here, links to notebooks or code elsewhere in the repository (such as in the [notebooks](notebooks/) folder), and information on how others can run your notebooks or code.
